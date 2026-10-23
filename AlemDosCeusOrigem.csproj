@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="$(TMLPath)/tMLMod.targets" Condition="Exists('$(TMLPath)/tMLMod.targets')" />
+  <PropertyGroup><TargetFramework>net8.0</TargetFramework><LangVersion>12</LangVersion><AssemblyName>AlemDosCeusOrigem</AssemblyName></PropertyGroup>
+</Project>

@@ -1,0 +1,7 @@
+displayName = Além dos Céus — Origem
+author = Projeto Além dos Céus
+version = 0.3.2
+side = Both
+buildIgnore = *.csproj, Docs/*, *.md, bin/*, obj/*
+
+
